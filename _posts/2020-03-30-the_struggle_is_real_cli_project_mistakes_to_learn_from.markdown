@@ -33,7 +33,7 @@ In the end I have a working gem! I completed it in about 2 days (of actual codin
 Oh, one last piece of knowlege I want to pass on here is, make an accountability buddy or 4! Not just for this project, but for the program as a whole. Having someone to check in with, someone to go to when you can't quite get something to work, it's truly an invaluable resource! My buddies are the reason I was able to finish so quickly. They kept me on track even when I was ready to walk away. 
 
 
-I hope someone finds this to be helpful. While this isn't the traditional blog that shows how awesome the thing you built it, I feel like it's more authentic to my experience. Happy coding! 
+I hope someone finds this to be helpful. While this isn't the traditional blog that shows how awesome the thing you built is, I feel like it's more authentic to my experience. If nothing else, just take-away what not to do. Happy coding! 
 
 
 
