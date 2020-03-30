@@ -26,7 +26,7 @@ Finally, after writing everything down, I had my plan and I knew how to execute.
 
 **The Product**
 
-In the end I have a working gem! I completed it in about 2 days (of actual coding!).  There are some things I would love to expand on or change in the future, but for now, I'm really happy with it. I've never really created anything so it's a pretty novel moment to realize you thought of something, code it, and now it's actually functional. 
+In the end I have a working gem! I completed it in about 2 days (of actual coding!).  There are some things I would love to expand on or change in the future, but for now, I'm really happy with it. I've never really created anything so it's a pretty novel moment to realize you thought of something, planned it (albeit poorly), coded it, and now it's actually functional. 
 
 **Before You Go**
 
