@@ -1,10 +1,12 @@
 ---
 layout: post
 title:      "The Struggle is Real: CLI Project Mistakes to Learn From "
-date:       2020-03-30 17:05:29 +0000
+date:       2020-03-30 13:05:30 -0400
 permalink:  the_struggle_is_real_cli_project_mistakes_to_learn_from
 ---
 
+
+**The Warning**
 
 I would be lying if I said the CLI project was a breeze. Being given the freedom to create, while fantastic, is overwhelming to say the least. Where do I begin? What am I interested in? Ok, I have an idea, but is the website scrapeable? No? Back to the beginning. 
 
@@ -25,6 +27,8 @@ Finally, after writing everything down, I had my plan and I knew how to execute.
 **The Product**
 
 In the end I have a working gem! I completed it in about 2 days (of actual coding!).  There are some things I would love to expand on or change in the future, but for now, I'm really happy with it. I've never really created anything so it's a pretty novel moment to realize you thought of something, code it, and now it's actually functional. 
+
+**Before You Go**
 
 Oh, one last piece of knowlege I want to pass on here is, make an accountability buddy or 4! Not just for this project, but for the program as a whole. Having someone to check in with, someone to go to when you can't quite get something to work, it's truly an invaluable resource! My buddies are the reason I was able to finish so quickly. They kept me on track even when I was ready to walk away. 
 
