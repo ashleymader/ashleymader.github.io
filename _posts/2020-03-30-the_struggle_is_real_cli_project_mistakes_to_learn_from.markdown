@@ -20,7 +20,7 @@ Build an app that scrapes the book charts on Amazon, gives book titles to the us
 
 **The Execution**
 
-*Wowzers*. I was all over the place for the first day or so. This was 100% my fault. Why, you ask? I didn't make my flow chart. I'm not going to lie, I got on the draw.io page and gave it a go for about 15min and decided it was too cumbersome. This was a HUGE MISTAKE. I had no plan on how I needed to get from one place to another. I only had an idea with no real plan on how to execute it. And while I still haven't made my chart (ducks and hides), I would love to go back and slap myself in the face for not doing it.  
+*Wowzers*. I was all over the place for the first day or so. This was 100% my fault. Why, you ask? I didn't make my flow chart. I'm not going to lie, I got on the draw.io page and gave it a go for about 15min and decided it was too cumbersome. This was a HUGE MISTAKE.  I only had an idea with no real plan on how to execute it. And while I still haven't made my chart (ducks and hides), I would love to go back and slap myself in the face for not doing it.  
 
 Finally, after writing everything down, I had my plan and I knew how to execute. It was a lot of trial and error, but by the end of it, I feel like a total pro at understanding error codes and how to debug. Not to mention really putting into practice the things we've been learning along the way. It's one thing to code to a test we have to pass. It's a completely different thing to code from scratch and make it all work. 
 
