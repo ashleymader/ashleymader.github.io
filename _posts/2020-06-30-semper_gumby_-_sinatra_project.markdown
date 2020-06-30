@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Semper Gumby - Sinatra Project "
-date:       2020-06-30 18:00:16 +0000
+date:       2020-06-30 14:00:17 -0400
 permalink:  semper_gumby_-_sinatra_project
 ---
 
