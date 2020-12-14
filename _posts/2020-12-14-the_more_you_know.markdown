@@ -7,7 +7,7 @@ permalink:  the_more_you_know
 
 
 # Ideation
-My idea started with the desire to find a void in my everyday life as a student, then fill it. Not only did I want to build something useful to me, I wanted to leave a lasting contribution to my classmates - a product that others might use at Flatiron after I’m gone. The idea came when I found myself constantly reaching back to learning resources used by classmates, but these sources were posted on a shared google spreadsheet, often poorly organized and sometimes lacking quality. Surely there has to be a better way for us to share educational sources. Thus was born Sorgente.
+My idea started with the desire to find a void in my everyday life as a student, then fill it. Not only did I want to build something useful to me, I wanted to leave a lasting contribution to my classmates - a product that others might use at Flatiron after I’m gone. The idea came when I found myself constantly reaching back to learning resources used by classmates, but these sources were posted on a shared google spreadsheet, often lacking quality descriptions and no feedback feature. Surely there has to be a better way for us to share educational sources. Thus was born Sorgente.
 
 # The Name
 The word sorgente is an Italian word meaning “source.” Also fitting as the Flatiron building in New York is owned by an Italian real estate investment firm called [Sorgente Group](https://sorgentegroupofamerica.com/). 
